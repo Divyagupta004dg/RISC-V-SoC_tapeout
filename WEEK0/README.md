@@ -1,4 +1,7 @@
+YOSYS INSTALLED 
 <img width="1231" height="719" alt="Image" src="https://github.com/user-attachments/assets/74a23c53-7f75-4cef-9f64-45b28ae55142" />
+
+IVERILOG INSTALLED 
 
 <img width="1231" height="719" alt="Image" src="https://github.com/user-attachments/assets/938a6c85-de7e-4ff2-bdf7-dc27accb24d4" />
 
