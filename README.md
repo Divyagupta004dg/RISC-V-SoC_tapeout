@@ -17,7 +17,7 @@ This repo is a week-by-week record of my learnings, tasks, and milestones as I p
 
  System Setup
 
-Install Oracle VirtualBox → Download Here
+Install Oracle VirtualBox 
 
 Create VM with:
 
@@ -31,28 +31,12 @@ Ubuntu 20.04+
 
 **TASK 2:** Tools to Install
 
-1 Yosys (Synthesis tool)
+  | Tool                     | Description              | Installation Steps                                    |
+|--------------------------|-------------------------|------------------------------------------------------|
+| **Yosys**                | Synthesis tool          | • Clone repo, build, and install                     |
+| **Icarus Verilog (iverilog)** | Simulator              | • Install via apt                                    |
+| **GTKWave**              | Waveform viewer         | • Install via apt                                    |
+| **Ngspice**              | Analog circuit simulator | • Download, configure, build, install               |
+| **Magic**                | Layout editor           | • Install dependencies → clone → build → install    |
+| **OpenLANE**             | RTL to GDSII flow       | • Install dependencies (docker, python, make, etc.) → Verify with `make test` |
 
-  • Clone repo, build, and install.
-
-2 Icarus Verilog (iverilog) (Simulator)
-
- • Install via apt.
-
-3 GTKWave (Waveform viewer)
-
-  • Install via apt.
-
-4 Ngspice (Analog circuit simulator)
-
-  • Download, configure, build, install.
-
-5 Magic (Layout editor)
-
-  • Install dependencies → clone → build → install.
-
-6 OpenLANE (RTL to GDSII flow)
-
-  • Install dependencies (docker, python, make, etc.).
-
-  • Verify installation with make test.
