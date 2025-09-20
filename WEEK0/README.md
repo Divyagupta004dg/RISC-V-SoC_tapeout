@@ -2,7 +2,7 @@
 
 <img width="1231" height="719" alt="Image" src="https://github.com/user-attachments/assets/74a23c53-7f75-4cef-9f64-45b28ae55142" />
 
-**IVERILOG INSTALLED **
+**IVERILOG INSTALLED**
 
 <img width="1231" height="719" alt="Image" src="https://github.com/user-attachments/assets/938a6c85-de7e-4ff2-bdf7-dc27accb24d4" />
 
@@ -41,6 +41,6 @@
 <img width="1222" height="768" alt="Image" src="https://github.com/user-attachments/assets/187a679c-b604-41ce-902f-595e2e1a674f" />
 
 
-OPENROAD INSTALLATION 
+**OPENROAD INSTALLATION**
 
 <img width="576" height="111" alt="Image" src="https://github.com/user-attachments/assets/f6a8e1eb-855b-42d9-9930-482145ab465f" />
